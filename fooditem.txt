@@ -1,0 +1,3 @@
+iteam name,price
+chicken rice,120
+egg biriyani,90
